@@ -13,8 +13,6 @@ TypeScript is a powerful superset of JavaScript that adds optional static typing
 6. Github Actions integrated with downloadable report
 7. Page object model
 
-## Sample report
-![image](https://github.com/ortoniKC/Playwright_Cucumber_TS/assets/58769833/da2d9f5a-85e7-4695-8ce2-3378b692afc4)
 
 
 ## Project structure
@@ -66,6 +64,4 @@ npm run test --TAGS="@test or @add"
 10. `src\helper\auth` -> Storage state (Auth file)
 11. `src\helper\util` -> Read test data from json & logger
 
-## Tutorials
-1. Learn Playwright - [Playwright - TS](https://youtube.com/playlist?list=PL699Xf-_ilW7EyC6lMuU4jelKemmS6KgD)
-2. BDD in detail - [TS binding](https://youtube.com/playlist?list=PL699Xf-_ilW6KgK-S1l9ynOnBGiZl2Bsk)
+
