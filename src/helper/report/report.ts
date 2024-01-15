@@ -9,18 +9,18 @@ report.generate({
     metadata: {
         browser: {
             name: "chrome",
-            version: "120",
+            version: "112",
         },
-        device: "Mahabu - PC",
+        device: "Koushik - PC",
         platform: {
             name: "Windows",
-            version: "11",
+            version: "10",
         },
     },
     customData: {
         title: "Test Info",
         data: [
-            { label: "Project", value: "Project Name" },
+            { label: "Project", value: "Book Cart Application" },
             { label: "Release", value: "1.2.3" },
             { label: "Cycle", value: "Smoke-1" }
         ],
